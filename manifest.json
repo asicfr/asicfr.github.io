@@ -3,7 +3,7 @@
     "lang": "fr",
     "name": "React App",
     "scope": "/",
-    "display": "standalone",
+    "display": "fullscreen",
     "start_url": "https://asicfr.github.io/",
     "short_name": "React App",
     "theme_color": "transparent",
