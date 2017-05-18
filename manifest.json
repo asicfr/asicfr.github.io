@@ -1,16 +1,17 @@
 {
-    "dir": "ltr",
     "lang": "fr",
-    "name": "React App",
+    "name": "RPWA",
     "scope": "/",
-    "display": "fullscreen",
+    "short_name": "RPWA",
+    "description": "React Progressive Web App",
     "start_url": "https://asicfr.github.io/",
-    "short_name": "React App",
-    "theme_color": "transparent",
-    "description": "PWRA",
+    "display": "standalone",
     "orientation": "any",
-    "background_color": "transparent",
-    "related_applications": [],
-    "prefer_related_applications": false,
-    "icons": []
+    "theme_color": "#f83611",
+    "background_color": "#f83611",
+    "icons": [{
+        "src": "logo.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    }]
 }
